@@ -1,5 +1,5 @@
-![Logo](../images/orange-logo-w.svg#gh-dark-mode-only)
-![Logo](../images/orange-logo-b.svg#gh-light-mode-only)
+![Logo](/images/orange-logo-w.svg#gh-dark-mode-only)
+![Logo](/images/orange-logo-b.svg#gh-light-mode-only)
 
 <!--
 
